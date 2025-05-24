@@ -1,7 +1,7 @@
-#############################################
+
 #             🎓 EduPortal-G28              #
 #   🧭 Marco Ético-Legal y Organización     #
-#############################################
+
 
 📌 **TÍTULO DEL PROYECTO:**  
 **EduPorta: Plataforma de Gestión Educativa Ética y Legal**
@@ -27,9 +27,9 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 - 🎨 Diseño accesible UX/UI
 - 🔐 Seguridad en bases de datos
 
-=============================================
+
 ⚖️  **MARCO NORMATIVO LEGAL INTEGRADO**
-=============================================
+
 
 📜 **Ley 26.061** – Protección Integral de NNyA  
 🔒 **Ley 25.326** – Protección de Datos Personales  
@@ -37,9 +37,9 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 👩‍🏫 **Ley 14.473** – Estatuto Docente  
 🧠 [Opcional] **Ley de Propiedad Intelectual**
 
-=============================================
+
 🧪 **COMANDOS DE GIT (para desarrollo)**
-=============================================
+
 
 ```bash
 $ git init                             # 🚀 Inicializa un nuevo repo
@@ -48,7 +48,8 @@ $ git checkout -b rama-funcionalidad  # 🌱 Crea nueva rama
 $ git commit -m "Descripción del cambio"  # 💾 Guarda cambios
 $ git push origin rama-funcionalidad  # ⬆️ Sube rama
 
-=============================================
+```
+
 🧪 **🧠 Sistema educativo inclusivo, legal,
 y centrado en derechos fundamentales**
-=============================================
+
