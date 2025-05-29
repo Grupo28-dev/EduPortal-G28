@@ -19,6 +19,7 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 
 👥 **INTEGRANTES DEL EQUIPO:**
 - 👩 Melina Yangüez
+- 👦 Nahuel Santiago Cufre
 - ➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**

@@ -1,0 +1,11 @@
+La metodología scrum es una manera de organizar, eficientizar el trabajo en equipo:
+Trabajaremos en ciclos (Sprints) a los que se les asignará un determinado tiempo
+La idea es mantener un desarrollo en equipo constante y fluido, adaptable a cambios y requisitos del Product Owner
+Se busca también poder entregar resultados funcionales cada poco tiempo
+
+---------------------------------------------------------------------------------------
+
+Por otra parte utilizaremos Github con el objetivo de llevar a cabo la metodología antes abarcada, al poder ofrecer un entorno de desarrollo colaborativo y mutuo
+Teniendo asi:
+Nuestra rama main o principal, nuestras ramas personales, una rama develop (predecesora de la main), y nuestro readme
+El readme va a buscar dar una introducción, orientación y puesta en común de objetivos
