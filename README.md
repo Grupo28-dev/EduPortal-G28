@@ -17,9 +17,7 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 - ♿ Plataforma accesible (Ley 26.653)
 - 📣 Canal de denuncias y reclamos escolares
 
-👥 **INTEGRANTES DEL EQUIPO:**
-- 👩 Melina Yangüez
-- ➕ [Agregar más integrantes]
+🙋‍♀️ Maria Aravena
 
 🛠️ **HABILIDADES TÉCNICAS:**
 - 💻 Desarrollo web (frontend/backend)
