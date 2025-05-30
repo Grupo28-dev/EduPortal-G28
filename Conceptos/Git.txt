@@ -1,0 +1,15 @@
+Git no  almacena de forma incremental, sino que los almacena como una serie de snapshots.
+
+Branch: Una branch o rama en GIT es simplemente un apuntador móvil que apunta a una de esas confirmaciones. La rama por defecto de Git es la main o master.
+
+La master o main apuntará siempre a la última confirmación realizada.
+
+Crear una nueva rama: git branch nueva_rama
+
+Saltar de una rama a otra: git checkout rama_a_la_que_quiero_ir
+
+Confirmación de cambios: git commit -a -m 'mensaje de la modificacion que se hizo'
+
+Saber si hay datos por guardar: git status
+
+Fusionar ramas: git merge <nombre_de_la_ rama>
