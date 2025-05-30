@@ -18,6 +18,10 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 - 📣 Canal de denuncias y reclamos escolares
 
 🙋‍♀️ Maria Aravena
+👩 Melina Yangüez
+👦 Danilo Oviedo
+👦 Nahuel Cufre
+➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**
 - 💻 Desarrollo web (frontend/backend)
