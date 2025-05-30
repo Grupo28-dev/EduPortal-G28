@@ -16,3 +16,8 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 - 👩‍🏫 Contratación docente según estatuto legal
 - ♿ Plataforma accesible (Ley 26.653)
 - 📣 Canal de denuncias y reclamos escolares
+
+👥 **INTEGRANTES DEL EQUIPO:**
+- 👩 Melina Yangüez
+- 👦 Danilo
+- ➕ [Agregar más integrantes]
