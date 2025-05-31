@@ -19,7 +19,9 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 
 👥 **INTEGRANTES DEL EQUIPO:**
 - 👩 Melina Yangüez
-- 👦 Danilo
+- 👦 Danilo Oviedo
+- 👦 Nahuel Cufre
+- 👩 Andrea Jimena Del valle Palma
 - ➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**
