@@ -1,0 +1,31 @@
+GIT. Introducción
+
+Para agregar más de un archivo al área de preparación:
+git add <archivo 1> <archivo 2> ... <archivo n>
+Ejemplo:
+git add app.py config.ini
+Para agregar todos los archivos modificados al área de preparación:
+git add .
+3. Confirmar los cambios preparados en el repositorio local mediante los siguientes
+comandos:
+Para crear una confirmación con una descripción corta:
+git commit -m “descripción del cambio”
+Para crear una confirmación con una descripción más detallada:
+git commit
+Este comando abrirá el editor de texto configurado para escribir una descripción de la
+confirmación más detallada.
+
+4. Enviar confirmaciones al repositorio remoto mediante los siguientes comandos:
+
+Para enviar las confirmaciones de una rama existente en el repositorio remoto:
+git push <repositorio remoto> <rama>
+Ej. git push origin main
+
+Para enviar las confirmaciones de una rama no existente en el repositorio remoto:
+git push -u <repositorio remoto> <rama-nueva>
+Ej. git push -u origin mi_rama
+
+Alternativamente puedes establecer un upstream para una rama. Es decir, la primera
+vez que ejecutas el comando git push a una nueva rama, puedes utilizar –set-upstream para
+establecer el repositorio remoto como predeterminado para futuros push o pull.
+git push –set-upstream <repositorio remoto> <rama-nueva>
