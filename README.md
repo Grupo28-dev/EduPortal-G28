@@ -22,8 +22,8 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 
 - 👦 Danilo Oviedo
 - 👦 Nahuel Cufre
-
-- 👦 Danilo
+- 👩 Fernanda Ozan
+- 👩 Andrea del Valle Palma
 - ➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**
