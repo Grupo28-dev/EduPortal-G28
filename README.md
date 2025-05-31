@@ -20,6 +20,8 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 👥 **INTEGRANTES DEL EQUIPO:**
 - 👩 Melina Yangüez
 - 👦 Danilo
+- 👩 Andrea Jimena Del valle Palma
+
 - ➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**
@@ -54,4 +56,3 @@ $ git push origin rama-funcionalidad  # ⬆️ Sube rama
 🧪 **🧠 Sistema educativo inclusivo, legal,
 y centrado en derechos fundamentales**
 
-Andrea Jimena Del valle Palma
