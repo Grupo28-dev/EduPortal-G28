@@ -1,0 +1,9 @@
+Código de Git
+
+1. Actualizar tu repositorio local con cambios remotos
+git pull origin <nombre-de-la-rama>
+
+2. Crear y cambiar de rama
+git branch <nombre-de-la-rama>
+git checkout <nombre-de-la-rama>
+git checkout -b <nombre-de-la-rama> # Crear y cambiar a rama

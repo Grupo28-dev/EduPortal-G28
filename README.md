@@ -17,11 +17,11 @@ Enfocada en la protección de datos, contratación docente regulada, propiedad i
 - ♿ Plataforma accesible (Ley 26.653)
 - 📣 Canal de denuncias y reclamos escolares
 
-🙋‍♀️ Maria Aravena
-👩 Melina Yangüez
-👦 Danilo Oviedo
-👦 Nahuel Cufre
-➕ [Agregar más integrantes]
+👥 **INTEGRANTES DEL EQUIPO:**
+- 👩 Melina Yangüez
+- 👦 Danilo Oviedo
+- 👦 Nahuel Cufre
+- ➕ [Agregar más integrantes]
 
 🛠️ **HABILIDADES TÉCNICAS:**
 - 💻 Desarrollo web (frontend/backend)
