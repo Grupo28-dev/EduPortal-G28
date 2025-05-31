@@ -1,0 +1,9 @@
+Git es un sistema de control de versiones que te permite rastrear cambios en tu código, colaborar con otros y mantener un historial de tu proyecto.
+1. Iniciar un repositorio
+git init
+
+2. Clonar un repositorio existente
+git clone <URL-del-repositorio>
+
+3. Ver el estado de los archivos
+git status
