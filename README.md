@@ -54,3 +54,4 @@ $ git push origin rama-funcionalidad  # ⬆️ Sube rama
 🧪 **🧠 Sistema educativo inclusivo, legal,
 y centrado en derechos fundamentales**
 
+Andrea Jimena Del valle Palma
